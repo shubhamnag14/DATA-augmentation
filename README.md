@@ -12,3 +12,4 @@ Data augmentation is an integral process in deep learning, as in deep learning w
 6.Changing the brightness level
 </h3>
 </pre>
+Many augmentation techniques
