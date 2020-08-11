@@ -16,4 +16,7 @@ Data augmentation is an integral process in deep learning, as in deep learning w
 Many augmentation techniques
 E.g. affine transformations, perspective transformations, contrast changes, gaussian noise, dropout of regions, hue/saturation changes, cropping/padding, blurring, ...
 Optimized for high performance
-Easy to apply augmentations only to some images
+Easy to apply augmentations only to some imagesEasy to apply augmentations in random order
+Support for
+
+
