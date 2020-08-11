@@ -18,5 +18,5 @@ E.g. affine transformations, perspective transformations, contrast changes, gaus
 Optimized for high performance
 Easy to apply augmentations only to some imagesEasy to apply augmentations in random order
 Support for
-
-
+Images (full support for uint8, for other dtypes see documentation)
+Heatmaps (float32), Segmentation Maps (int), Masks (bool)
