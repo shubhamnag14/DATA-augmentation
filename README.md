@@ -29,4 +29,7 @@ Probability distributions as parameters
 Example: Rotate images by values sampled from uniform(-10°, 45°).
 Example: Rotate images by values sampled from ABS(N(0, 20.0))*(1+B(1.0, 1.0))", where ABS(.) is the absolute function, N(.) the gaussian distribution and B(.) the beta distribution.
 Many helper functions
-
+Example: Draw heatmaps, segmentation maps, keypoints, bounding boxes, ...
+Example: Scale segmentation maps, average/max pool of images/maps, pad images to aspect ratios (e.g. to square them)
+Example: Convert keypoints to distance maps, extract pixels within bounding boxes from images, clip polygon to the image plane, ...
+Support for augmentation on multiple CPU cores
