@@ -3,11 +3,12 @@ Data augmentation is the process of increasing the amount and diversity of data.
 Data augmentation is an integral process in deep learning, as in deep learning we need large amounts of data and in some cases it is not feasible to collect thousands or millions of images, so data augmentation comes to the rescue. It helps us to increase the size of the dataset and introduce variability in the dataset.
 
 <pre>
-The most commonly used operations are-
+<h3>The most commonly used operations are-
 1.Rotation
 2.Shearing
 3.Zooming
 4.Cropping
 5.Flipping
 6.Changing the brightness level
+</h3>
 </pre>
