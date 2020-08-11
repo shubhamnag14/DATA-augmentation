@@ -23,3 +23,7 @@ Heatmaps (float32), Segmentation Maps (int), Masks (bool)May be smaller/larger t
 Keypoints/Landmarks (int/float coordinates)
 Bounding Boxes (int/float coordinates)Polygons (int/float coordinates)
 Line Strings (int/float coordinates)
+Automatic alignment of sampled random values
+Example: Rotate image and segmentation map on it by the same value sampled from uniform(-10°, 45°). (0 extra lines of code.)
+Probability distributions as parameters
+Example: Rotate images by values sampled from uniform(-10°, 45°).
