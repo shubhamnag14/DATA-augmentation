@@ -27,3 +27,6 @@ Automatic alignment of sampled random values
 Example: Rotate image and segmentation map on it by the same value sampled from uniform(-10°, 45°). (0 extra lines of code.)
 Probability distributions as parameters
 Example: Rotate images by values sampled from uniform(-10°, 45°).
+Example: Rotate images by values sampled from ABS(N(0, 20.0))*(1+B(1.0, 1.0))", where ABS(.) is the absolute function, N(.) the gaussian distribution and B(.) the beta distribution.
+Many helper functions
+
